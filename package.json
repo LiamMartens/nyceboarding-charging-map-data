@@ -1,0 +1,11 @@
+{
+  "name": "nyceboarding-charging-map-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LiamMartens/nyceboarding-charging-map-data.git",
+  "author": "Liam Martens <hi@liammartens.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  }
+}
