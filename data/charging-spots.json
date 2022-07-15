@@ -16944,18 +16944,6 @@
     "status": "Live"
   },
   {
-    "id": 1794,
-    "latitude": "42.37226",
-    "longitude": "-71.031683",
-    "author": "Zo",
-    "date_created": "2022-06-28T15:23:39.784Z",
-    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1656429819/th6lx8jjqocooe8u6icq.jpg",
-    "description": "Outside next to the tennis courts",
-    "type": "Outdoor",
-    "is24h": "Yes",
-    "status": "Live"
-  },
-  {
     "id": 1795,
     "latitude": "42.370448",
     "longitude": "-71.029122",
