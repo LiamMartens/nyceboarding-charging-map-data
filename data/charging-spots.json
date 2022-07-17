@@ -17026,5 +17026,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1802,
+    "latitude": "42.464709",
+    "longitude": "-71.008896",
+    "author": "Zach Baum",
+    "date_created": "2022-07-16T02:56:16.767Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1657940176/od4zrgbm7bxrxvsywxkb.jpg",
+    "description": "North Shore Bank, next to the door facing the parking lot",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
