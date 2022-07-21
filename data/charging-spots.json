@@ -17038,5 +17038,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1803,
+    "latitude": "41.313275",
+    "longitude": "-73.989908",
+    "author": "Giffy",
+    "date_created": "2022-07-20T21:11:06.880Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1658351466/f9krbbstft70yjjsuj4x.jpg",
+    "description": "4 evconnect plugs behind inn",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
