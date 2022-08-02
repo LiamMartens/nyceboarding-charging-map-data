@@ -17050,5 +17050,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1804,
+    "latitude": "44.074792",
+    "longitude": "-71.139302",
+    "author": "Alex B",
+    "date_created": "2022-08-02T01:52:42.347Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1659405161/mndwpdcrp8vmmzivtp2k.jpg",
+    "description": "On building in front of Trails End ice cream",
+    "type": "outdoor",
+    "is24h": "yes",
+    "status": "Live"
   }
 ]
