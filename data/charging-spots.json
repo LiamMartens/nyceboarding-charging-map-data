@@ -17062,5 +17062,17 @@
     "type": "outdoor",
     "is24h": "yes",
     "status": "Live"
+  },
+  {
+    "id": 1805,
+    "latitude": "41.937813",
+    "longitude": "-71.436275",
+    "author": "Alex B",
+    "date_created": "2022-08-04T20:45:38.450Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1659645938/tegjaec3mp2jbpml9npp.jpg",
+    "description": "Side of red building next to Rt 116 parking lot",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
