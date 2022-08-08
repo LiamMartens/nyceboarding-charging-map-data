@@ -17074,5 +17074,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1806,
+    "latitude": "40.082464",
+    "longitude": "-75.223143",
+    "author": "Zach Baum",
+    "date_created": "2022-08-08T00:27:47.208Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1659918466/asfx93qly4hmomoqgemf.jpg",
+    "description": "Inside gazebo",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
