@@ -17086,5 +17086,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1807,
+    "latitude": "40.819398",
+    "longitude": "-73.959785",
+    "author": "Miles Mitchell",
+    "date_created": "2022-08-17T23:51:15.360Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1660780274/btl4oizrpsnx0izmxse3.jpg",
+    "description": "NW corner of W 132 St and 12 Ave in Manhattan",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
