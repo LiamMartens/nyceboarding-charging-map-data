@@ -17086,5 +17086,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1808,
+    "latitude": "40.594254",
+    "longitude": "-73.75013",
+    "author": "THE LAST WARRIOR",
+    "date_created": "2022-09-01T21:17:20.710Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1662067040/k5y7bfok9ikequhv7fsh.jpg",
+    "description": "Outlet outside with shade from the sun.",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
