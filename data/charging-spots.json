@@ -5676,18 +5676,6 @@
     "status": "Live"
   },
   {
-    "id": 578,
-    "latitude": "40.729714",
-    "longitude": "-74.01087",
-    "author": "Stanislav Milov",
-    "date_created": "2019-06-08T21:47:47.250Z",
-    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1560030466/n3v0righiv4bfbesafgn.jpg",
-    "description": "Water kiosk machine",
-    "type": "Outdoor",
-    "is24h": "Yes",
-    "status": "Live"
-  },
-  {
     "id": 579,
     "latitude": "40.774311",
     "longitude": "-73.988998",
