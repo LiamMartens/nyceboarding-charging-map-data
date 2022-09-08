@@ -17086,5 +17086,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1809,
+    "latitude": "40.828835",
+    "longitude": "-74.186147",
+    "author": "Jonathan B",
+    "date_created": "2022-09-07T23:25:43.994Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1662593143/vyjquxi5gow0amczfkop.jpg",
+    "description": "Right out front corner of building",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
