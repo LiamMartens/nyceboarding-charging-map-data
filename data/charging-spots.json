@@ -17098,5 +17098,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1810,
+    "latitude": "42.33783",
+    "longitude": "-71.139485",
+    "author": "Josh Haley",
+    "date_created": "2022-09-08T04:08:10.572Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1662610090/rmnlvrynnpaj2seltnt0.jpg",
+    "description": "Directly to the right of the main entrance to star market. The front door is on the corner of the building",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
