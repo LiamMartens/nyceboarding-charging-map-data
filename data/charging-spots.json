@@ -17110,5 +17110,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1811,
+    "latitude": "42.558208",
+    "longitude": "-71.26895",
+    "author": "Evan",
+    "date_created": "2022-09-17T04:41:15.723Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1663389675/styswgiivbnjbk03pbi5.jpg",
+    "description": "2x 2gang outlets on gazebo pillar legs @ floor joist, just inside the gazebo steps. Nicely shielded from view w/ bush cover in summer/fall",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
