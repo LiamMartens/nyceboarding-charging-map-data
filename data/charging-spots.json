@@ -17122,5 +17122,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1812,
+    "latitude": "40.714765",
+    "longitude": "-73.951554",
+    "author": "Marq L",
+    "date_created": "2022-09-20T22:47:39.174Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1663714057/cdbfkiy9qesbmssuxwdw.jpg",
+    "description": "478 Union ave. Next to the entrance",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
