@@ -17134,5 +17134,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1813,
+    "latitude": "42.520581",
+    "longitude": "-70.891013",
+    "author": "Yoitskay Kay",
+    "date_created": "2022-09-24T01:04:41.287Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1663981480/bxlpshpjba6gmlzjsxrz.jpg",
+    "description": "To your right in front entrance by outdoor eating area",
+    "type": "Outdoor",
+    "is24h": "No",
+    "status": "Live"
   }
 ]
