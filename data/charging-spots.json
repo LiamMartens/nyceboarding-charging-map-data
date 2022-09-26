@@ -17170,5 +17170,29 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1816,
+    "latitude": "40.740301",
+    "longitude": "-73.786738",
+    "author": "Chris B",
+    "date_created": "2022-09-25T15:13:31.900Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1664118811/qcacppajwzf3w79gvgqe.jpg",
+    "description": "Public seating with 4 charging stations. Corner of Horace Harding and 188th St.",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
+  },
+  {
+    "id": 1817,
+    "latitude": "44.161849",
+    "longitude": "-72.090176",
+    "author": "Declan",
+    "date_created": "2022-09-25T18:51:26.442Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1664131885/lxubql1gyrlkxt2fcvv0.jpg",
+    "description": "Inside P&H truck stop, across from cash register",
+    "type": "Indoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
