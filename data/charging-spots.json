@@ -17194,5 +17194,29 @@
     "type": "Indoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1818,
+    "latitude": "40.791743",
+    "longitude": "-73.942877",
+    "author": "IDESERVEBETTER UNICIDE SQUAD",
+    "date_created": "2022-09-26T10:02:01.222Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1664186520/ojnyrhcjcagooiiahrg1.jpg",
+    "description": "It’s my building I live in",
+    "type": "Indoor",
+    "is24h": "Yes",
+    "status": "Live"
+  },
+  {
+    "id": 1819,
+    "latitude": "40.826624",
+    "longitude": "-73.95648",
+    "author": "Sebastian Sanderson",
+    "date_created": "2022-09-26T22:04:24.386Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1664229863/cvuymhf2kio8kdifgqze.jpg",
+    "description": "Riverbank Park next to building on light pole close to river.",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
