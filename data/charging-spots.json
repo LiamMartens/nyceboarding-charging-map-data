@@ -17218,5 +17218,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1820,
+    "latitude": "40.780395",
+    "longitude": "-73.977756",
+    "author": "Cyrus Blades",
+    "date_created": "2022-09-27T03:59:50.524Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1664251188/sfvrm5dc6t9n9yyqjzgr.jpg",
+    "description": "Plug NYC left side of the street",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
