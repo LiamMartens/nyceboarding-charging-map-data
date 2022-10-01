@@ -16668,6 +16668,18 @@
     "status": "Live"
   },
   {
+    "id": 1821,
+    "latitude": "45.516719",
+    "longitude": "-73.557642",
+    "author": "Declan",
+    "date_created": "2022-09-30T21:30:31.535Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1664573431/twfcx64vvdwqp6pzumr0.jpg",
+    "description": "Inside the cafe",
+    "type": "Indoor",
+    "is24h": "No",
+    "status": "Live"
+  },
+  {
     "id": 1773,
     "latitude": "40.744409",
     "longitude": "-73.995702",
