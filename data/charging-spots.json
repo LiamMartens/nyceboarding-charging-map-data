@@ -17242,5 +17242,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1822,
+    "latitude": "41.071573",
+    "longitude": "-71.860383",
+    "author": "Nelson Licht Bach fabled ace",
+    "date_created": "2022-10-10T22:48:41.051Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1665442120/bthmxt51rjhkx7pdm2ft.jpg",
+    "description": "In the outside wall of the men restroom 🚻",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
