@@ -17254,5 +17254,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1823,
+    "latitude": "43.676462",
+    "longitude": "-70.369651",
+    "author": "Giffy",
+    "date_created": "2022-10-19T23:20:39.084Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1666221638/ykkymmldtdkwyrzxypoc.jpg",
+    "description": "Possibly 24hour. This is outside Masslanding Brewing and they seem cool",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
