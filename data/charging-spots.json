@@ -17266,5 +17266,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1824,
+    "latitude": "43.398862",
+    "longitude": "-70.417142",
+    "author": "Giffy",
+    "date_created": "2022-10-23T19:37:36.618Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1666553856/teym7mjich0kf8ckdg4j.jpg",
+    "description": "Outside a convenient store",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
