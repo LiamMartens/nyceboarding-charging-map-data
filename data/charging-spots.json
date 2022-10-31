@@ -17278,5 +17278,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1825,
+    "latitude": "42.077769",
+    "longitude": "-72.564956",
+    "author": "Josh Haley",
+    "date_created": "2022-10-30T19:53:48.382Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1667159627/qsamuusrvncxykz2vpu2.jpg",
+    "description": "External 4-banger sticking out of the ground next to a concession stand",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
