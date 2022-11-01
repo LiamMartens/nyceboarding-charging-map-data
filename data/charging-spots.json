@@ -17290,5 +17290,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1826,
+    "latitude": "40.713519",
+    "longitude": "-74.003332",
+    "author": "Gio M",
+    "date_created": "2022-11-01T01:57:56.544Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1667267876/s51wbh8adcfgc2pomdfl.jpg",
+    "description": "Outdoor food court with multiple outlets and security cabin",
+    "type": "Outdoor",
+    "is24h": "Yes",
+    "status": "Live"
   }
 ]
