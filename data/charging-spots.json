@@ -17302,5 +17302,17 @@
     "type": "Outdoor",
     "is24h": "Yes",
     "status": "Live"
+  },
+  {
+    "id": 1827,
+    "latitude": "40.637388",
+    "longitude": "-73.571049",
+    "author": "Sal 🔰",
+    "date_created": "2022-11-27T12:57:03.183Z",
+    "photo_url": "https://res.cloudinary.com/nyceboarding/image/upload/v1669553822/azdz0nqlm96sixggsaqk.jpg",
+    "description": "Sunrise-sunset, bathroom building",
+    "type": "Outdoor",
+    "is24h": "No",
+    "status": "Live"
   }
 ]
